@@ -1,14 +1,15 @@
-# ScrumPilot616 RC Tools
+# RC Tool Suite by ScrumPilot616 
 
 Step by step, the following projects will be provided as a binary release package:
-- MAVLINK to Frsky S.Port telemetry
 - Analog joystick to PPM
+- MAVLINK to Frsky S.Port telemetry
+- Android mobile app to display telemetry data
+- Windows Ground Control Station
 - WiFi telemetry modul for Taranis battery compartment
 - WiFi and Bluetooth telemetry modul for Taranis modul bay
 - HeadTracker with PPM / Serial and WiFi output         [Go to the repository](https://github.com/ScrumPilot616/HeadTracker)
 - USB to PPM / CRSF with WiFi/Bluetooth telemetry output     [Go to the repository](https://github.com/ScrumPilot616/USB2RC)
-- Android mobile app
-- Windows Ground Control Station
+
 
 If a repository is currently not available, it will be added soon.
 
