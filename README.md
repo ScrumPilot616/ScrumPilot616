@@ -7,7 +7,7 @@ Step by step, the following projects will be provided as a binary release packag
 - Windows Ground Control Station
 - WiFi telemetry modul for Taranis battery compartment
 - WiFi and Bluetooth telemetry modul for Taranis modul bay
-- HeadTracker with PPM / Serial and WiFi output         [Go to the repository](https://github.com/ScrumPilot616/HeadTracker)
+- HeadTracker with CPPM / Serial and WiFi output         [Go to the repository](https://github.com/ScrumPilot616/HeadTracker)
 - USB to CPPM / CRSF with WiFi/Bluetooth telemetry output     [Go to the repository](https://github.com/ScrumPilot616/USB2RC)
 
 
