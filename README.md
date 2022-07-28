@@ -8,7 +8,7 @@ Step by step, the following projects will be provided as a binary release packag
 - WiFi telemetry modul for Taranis battery compartment
 - WiFi and Bluetooth telemetry modul for Taranis modul bay
 - HeadTracker with PPM / Serial and WiFi output         [Go to the repository](https://github.com/ScrumPilot616/HeadTracker)
-- USB to PPM / CRSF with WiFi/Bluetooth telemetry output     [Go to the repository](https://github.com/ScrumPilot616/USB2RC)
+- USB to CPPM / CRSF with WiFi/Bluetooth telemetry output     [Go to the repository](https://github.com/ScrumPilot616/USB2RC)
 
 
 If a repository is currently not available, it will be added soon.
