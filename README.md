@@ -1,7 +1,7 @@
 # RC Tool Suite by ScrumPilot616 
 
 Step by step, the following projects will be provided as a binary release package:
-- Analog joystick to PPM
+- Analog joystick to CPPM
 - MAVLINK to Frsky S.Port telemetry
 - Android mobile app to display telemetry data
 - Windows Ground Control Station
