@@ -1,4 +1,4 @@
-# RC Tool Suite by ScrumPilot616 
+# RC Tools by ScrumPilot616 
 
 Step by step, the following projects will be provided as a binary release package:
 - Analog joystick to CPPM
